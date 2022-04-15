@@ -1,5 +1,6 @@
 ---
 title: 'Le Fuz'
+published: false
 image: images/writer.jpeg
 menu:
   main:

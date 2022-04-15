@@ -1,18 +1,25 @@
 {
-  "links": [{
+  "links": [
+    {
     "name": "wiki",
     "url": "https://wiki.fuz.re",
     "image": "images/social/wiki.svg"
   },
     {
-      "name": "twitter",
-      "url": "https://twitter.com/fuz_re",
-      "image": "images/social/twitter.svg"
-    },
+    "name": "matrix",
+    "url": "https://matrix.to/#/#fuz_general:matrix.fuz.re",
+    "image": "images/social/matrix.svg"
+  },
+    
     {
       "name": "github",
       "url": "https://github.com/fuz-re",
       "image": "images/social/github.svg"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/fuz_re",
+      "image": "images/social/twitter.svg"
     }
   ]
 }
