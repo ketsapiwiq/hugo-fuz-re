@@ -1,19 +1,18 @@
 {
-  "links": [
+  "links": [{
+    "name": "wiki",
+    "url": "https://wiki.fuz.re",
+    "image": "images/social/wiki.svg"
+  },
     {
       "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
+      "url": "https://twitter.com/fuz_re",
       "image": "images/social/twitter.svg"
     },
     {
       "name": "github",
-      "url": "https://github.com/zerostaticthemes",
+      "url": "https://github.com/fuz-re",
       "image": "images/social/github.svg"
-    },
-    {
-      "name": "linkedin",
-      "url": "https://www.linkedin.com",
-      "image": "images/social/linkedin.svg"
     }
   ]
 }
