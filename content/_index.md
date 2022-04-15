@@ -9,6 +9,8 @@ menu:
 
 Le Fuz est un lieu ouvert de rencontres et de partage entre curiosité, bricolage, explorations, pratiques artistiques, de tous niveaux et de tous horizons.
 
+![](images/emmenagement_4.jpg)
+
 C'est un lieu de rencontre ouvert à toustes, abordant toutes disciplines, où l'on peut apprendre autour de la technique et de la technologie, à tous les niveaux, expert·es comme amateur·ices.
 
 
@@ -22,7 +24,6 @@ Le détournement, pratique constituve du hack, permet une désacralisation de la
 La réparation, comme 
 ... réemploi, re-valorisation
 ... diminuer l'impact écologique du numérique
-
 
 
 
